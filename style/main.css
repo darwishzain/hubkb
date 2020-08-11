@@ -1,0 +1,31 @@
+body{
+  margin: 0px;
+  padding: 0px;
+  font-size: 20px;
+}
+a{
+  text-decoration: none;
+  color: inherit;
+}
+button{
+  border: none;
+  background-color: orange;
+  height: 50px;
+  width: 150px;
+  padding: 5px;
+  font-size: 20px;
+}
+nav ul li{
+  display: inline;
+}
+.halaman{
+  text-align: center;
+  font-size: 50px;
+}
+.email{
+  background-color: white;
+  height: 30px;
+  width: 70px;
+  font-size: 15px;
+  padding: 5px;
+}

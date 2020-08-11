@@ -1,0 +1,13 @@
+.sub-tajuk{
+  font-size: 25px;
+  margin: 5px;
+}
+.threebar{
+  display: inline-flex;
+  background-color: orange;
+  padding-bottom: 10px;
+}
+.footbar{
+  width: 500px;
+  border: 5px black;
+}
